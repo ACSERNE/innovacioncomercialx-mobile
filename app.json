@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "innovacioncomercialx-mobile",
+    "slug": "innovacioncomercialx-mobile",
+    "owner": "innovacionx",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "sdkVersion": "51.0.0",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.innovacionx.mobile",
+      "versionCode": 1
+    }
+  }
+}

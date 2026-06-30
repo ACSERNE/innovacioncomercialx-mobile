@@ -8,3 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "EAS Build desactivado temporalmente. Usando Expo Cloud Preview."
+
